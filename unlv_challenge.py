@@ -5,9 +5,7 @@ Encrypted Cat - Python
 This project is designed to read an encrypted message from the bytes in a *.bmp 
 file with an enigma machine by taking the least significant bits from each byte 
 and recombining them into new bytes that contain an ASCII table, plans for each 
-rotor of the enigma machine, and the encrypted message. This solution does not 
-produce a correct answer, but it meets all the checkpoints except the correctly 
-encrypted message.
+rotor of the enigma machine, and the encrypted message.
 '''
 
 
